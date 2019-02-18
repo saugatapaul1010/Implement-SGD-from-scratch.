@@ -1,0 +1,2 @@
+# Implement-SGD-from-scratch.
+In this experiment we will implement Stochastic Gradient Descent from scratch. We will use multiple datasets in multiple Ipython notebooks to check the iuntegrity of the custom implementaton. We will compare the mean squared error obtained from our custom implementation to that of SKLEARNS LinearRegressor and SGDRegressor and see if all the errors are in similar ranges.
